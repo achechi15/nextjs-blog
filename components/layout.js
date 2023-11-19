@@ -3,7 +3,7 @@ import Image from 'next/image';
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
-import profile from './images/profile2.jpg'
+import profile from './images/profile2.JPG'
 
 const name = 'Alexis Montalvo Callaú';
 export const siteTitle = 'Next.js Sample Website';
