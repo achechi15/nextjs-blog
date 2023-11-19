@@ -1,13 +1,13 @@
 ---
-title: 'Mi primer blog'
+title: 'My first blog'
 date: '2023-11-17'
 ---
 
-Bienvenido, este es mi primer blog creado por mi, este blog ha sido creado únicamente con fines didácticos, por tanto no voy a subir nada aquí, o por lo menos no es mi intención.
-Estoy probando como se usan las **negritas**, además que este blog esta creado a partir de markdown, es decir extensiones **.md**.
+Welcome, this is my first blog developed by me, I only created this blog in order to learn how to create a website with Next.js, so it is not my intention to create a lot of blogs
+In this blog I will be testing how the extension .md works, I can put text in **bold**
 
-A parte también puedo hacer listado:
-- Huevos
-- Patatas
-- Lechuga
-- Pollo
+Also I can make list:
+- Eggs
+- Potatoes
+- Lettuce
+- Chicken

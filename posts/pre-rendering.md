@@ -1,10 +1,10 @@
 ---
-title: 'Mi segundo Blog'
+title: 'Another boring blog post'
 date: '2023-11-18'
 ---
 
-Este es mi segundo blog, he aprendido como _poner las letras en cursiva_ y en **_en negrita y en cursiva_**, ns que más poner aquí. <br>
+This is my second blog, I learned _how to put text in cursive_ and also **_in cursive and bold_**, I do not know what else I can put here. <br>
 
-Según mi poca experiencia en next/js, puedo decir que es un poco complicado, pero es divertido, y bastante satisfactorio la retroalimentación al aprenderlo.
+I do not have experience with Next.js, but I can say that is a little bit complicated, that in mind, is also very fun and it gave satisfaction while learning it.
 
 **Bye bye**

@@ -22,9 +22,9 @@ export default function Home({ allPostsData }) {
         <title>{sideTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hola soy <bdi className={utilStyles.headingName}>Alexis Montalvo Callaú</bdi>, un estudiante de Ingeniería informatica y Economía en la Universidad Politécnica de Valencia</p>
+        <p>Hello, I'm <bdi className={utilStyles.headingName}>Alexis Montalvo Callaú</bdi>, an informatics engineer + economics student at Polytechnic University of Valencia</p>
         <p>
-          (Este es un ejemplo de pagina web, sigueme en mi {' '} <a href='https://github.com/achechi15'>github</a>.)
+          (This is an example of a website, check my {' '} <a href='https://github.com/achechi15'>github</a>.)
         </p>
       </section>
 
