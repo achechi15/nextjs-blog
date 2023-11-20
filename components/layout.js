@@ -8,7 +8,7 @@ import profile from './images/profile2.JPG'
 const name = 'Alexis Montalvo Callaú';
 export const siteTitle = 'Next.js Sample Website';
 export const fullName = 'Alexis Montalvo Callaú';
-export default function Layout({ children, home }) {
+export default function Layout({ children, Home }) {
     return (
         <div className={styles.container}>
             <Head>
@@ -27,7 +27,7 @@ export default function Layout({ children, home }) {
             <meta name="twitter:card" content="summary_large_image" />
             </Head>
             <header className={styles.header}>
-            {home ? (
+            {Home ? (
                 <>
                 <Image
                     priority
@@ -41,7 +41,7 @@ export default function Layout({ children, home }) {
                 </>
             ) : (
                 <>
-                <Link href="/post/first-post">
+                <Link href={"/"}>
                     <Image
                     priority
                     src={profile}
@@ -52,7 +52,7 @@ export default function Layout({ children, home }) {
                     />
                 </Link>
                 <h2 className={utilStyles.headingLg}>
-                    <Link href="post/first-post" className={utilStyles.colorInherit}>
+                    <Link href="/" className={utilStyles.colorInherit}>
                     {name}
                     </Link>
                 </h2>
@@ -60,7 +60,7 @@ export default function Layout({ children, home }) {
             )}
             </header>
             <main>{children}</main>
-            {!home && (
+            {!Home && (
                 <div className={styles.backToHome}>
                     <Link href="/">← Back to home</Link>
                 </div>

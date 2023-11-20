@@ -5,9 +5,9 @@ date: '2023-11-19'
 
 In this entry, I will talk about the concept of **_romanticizing life_**. Lately, my social media has been filled with videos about the lives of unknown people. Colorful photos with music where people appeared very happy.
 
-With the first video I saw, I thought, _"Wow, that's cool"_. But after watching a few more, I told myself that not all lives are the same, and I couldn't make those kinds of videos since my life wasn't even half as beautiful.
+With the first video I saw, I thought, *"Wow, that's cool"*. But after watching a few more, I told myself that not all lives are the same, and I couldn't make those kinds of videos since my life wasn't even half as beautiful.
 
-Fortunately, I remembered that on _social media_, nobody is what they claim to be. I made my versions of the videos—30-second clips summarizing the day, photos with friends, and landscapes I liked. Gradually, I realized that my shorts, far from being as perfect and animated, were in a way romantic.
+Fortunately, I remembered that on *social media*, nobody is what they claim to be. I made my versions of the videos—30-second clips summarizing the day, photos with friends, and landscapes I liked. Gradually, I realized that my shorts, far from being as perfect and animated, were in a way romantic.
 
 If you look up the meaning of the word _"romanticize"_, it will appear as a synonym for idealize. 
 > `It's about finding happiness in the simple things of everyday life.` 
