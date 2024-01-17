@@ -44,7 +44,7 @@
   justify-content: center;
   flex-wrap: wrap;
 
-  max-width: 400px;
+  max-width: 800px;
   margin-top: 3rem;
 }
 
@@ -84,7 +84,7 @@
   height: 1em;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
   .grid {
     width: 100%;
     flex-direction: column;
