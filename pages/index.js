@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm <bdi className={utilStyles.headingName}>Alexis Montalvo Callaú</bdi>, an informatics engineer + economics student at Polytechnic University of Valencia</p>
         <p>
-          (This is an example of a website, check my {' '} <a href='https://github.com/achechi15'>github</a>.)
+          (This is my philosophy blog, check my {' '} <a href='https://github.com/achechi15'>github</a>.)
         </p>
       </section>
 
